@@ -75,5 +75,5 @@ Streamlit
 Docker
 _____________
 Flask
-DVC
+
 
