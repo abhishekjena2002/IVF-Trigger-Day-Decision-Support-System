@@ -77,5 +77,4 @@ _____________
 Flask
 DVC
 GIT
-Airflow
 
