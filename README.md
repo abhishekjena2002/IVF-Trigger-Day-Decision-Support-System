@@ -74,6 +74,6 @@ MLflow
 Streamlit
 Docker
 _____________
-Flask
+
 
 
