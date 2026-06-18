@@ -78,4 +78,4 @@ Flask
 DVC
 GIT
 Airflow
-MLOps
+
