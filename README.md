@@ -76,5 +76,4 @@ Docker
 _____________
 Flask
 DVC
-GIT
 
