@@ -63,10 +63,4 @@ Handles non-linear relationships
 Performs well on tabular medical data
 High accuracy and robustness
 
-Tech Stack
-Python
-Pandas
-XGBoost
-MySQL
-ClickHouse
-Great 
+
