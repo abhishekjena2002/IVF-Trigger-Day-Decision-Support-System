@@ -65,7 +65,7 @@ High accuracy and robustness
 
 Tech Stack
 Python
-Pandas, NumPy, Scikit-learn
+Pandas, NumPy
 XGBoost
 MySQL
 ClickHouse
