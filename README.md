@@ -71,7 +71,7 @@ MySQL
 ClickHouse
 Great Expectations
 MLflow
-Streamlit
+
 Docker
 
 
